@@ -52,3 +52,6 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+/app/release/*
+/app/src/main/assets/key.prop
